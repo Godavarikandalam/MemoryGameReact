@@ -1,0 +1,14 @@
+.imageItem-container {
+  margin: 10px;
+}
+
+.thumbnail-image {
+  width: 70px;
+  height: 70px;
+}
+.button {
+  padding: 0px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}

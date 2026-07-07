@@ -1,0 +1,16 @@
+.tabsItem-container {
+  margin: 10px;
+}
+
+.tab-btn {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: white;
+  border: none;
+  background-color: transparent;
+}
+
+.active-tab-btn {
+  color: #fec653;
+  text-decoration: underline;
+}
